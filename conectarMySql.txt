@@ -1,0 +1,3 @@
+Conexão de c# com mysql
+
+nuget> pesquisar por mysql data e instalar
